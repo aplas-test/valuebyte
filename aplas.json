@@ -22,7 +22,47 @@
       "months_to_renew_support": "13",
       "sme_email": "Ruperta.Saintpierre@memento.net.au",
       "vendor_phone": "+7 719 341 1969",
-      "investment_number": "269"
+      "investment_number": "269",
+      "integrations": [
+        {
+          "id": "int-475",
+          "name": "INT-475",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.",
+          "sourceApplicationId": "valuebyte",
+          "targetApplicationId": "granular_big_data",
+          "logical_server": "CLOUD-B2B",
+          "status_color": "#00FF00",
+          "pattern": "Countent Based Router",
+          "golive_date": "25/2/09",
+          "sme_name": "Hildegaard Tollit",
+          "datacentre": "Asia Pacific (Sydney)",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "htollita@memento.net.au",
+          "complexity": "High",
+          "last_deployment_date": "2/10/15"
+        },
+        {
+          "id": "int-486",
+          "name": "INT-486",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+          "sourceApplicationId": "valuebyte",
+          "targetApplicationId": "granular_big_data",
+          "logical_server": "CLOUD-B2B",
+          "status_color": "#00FF00",
+          "pattern": "Sync Request-Reply",
+          "golive_date": "15/9/02",
+          "sme_name": "Roland Elijah",
+          "datacentre": "Asia Pacific (Sydney)",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "relijahe@memento.net.au",
+          "complexity": "Medium",
+          "last_deployment_date": "10/12/14"
+        }
+      ]
     }
   ]
 }
